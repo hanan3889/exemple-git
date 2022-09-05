@@ -1,4 +1,2 @@
-Hello world 
-
-Une nouvelle ligne
+Hello world\n
 
